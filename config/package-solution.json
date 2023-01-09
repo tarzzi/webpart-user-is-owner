@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "webpart-user-is-owner-client-side-solution",
+    "id": "e5c06739-b15b-43d3-b5ae-eb7749bbf5b3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "webpart-user-is-owner description"
+      },
+      "longDescription": {
+        "default": "webpart-user-is-owner description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "webpart-user-is-owner Feature",
+        "description": "The feature that activates elements of the webpart-user-is-owner solution.",
+        "id": "47df7e8c-e4bd-4693-803f-ca4848510b7c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/webpart-user-is-owner.sppkg"
+  }
+}
