@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Webpart for checking selected users groups, where they have owner status.
 
 [picture of the solution in action, if possible]
 
@@ -25,14 +25,13 @@ Short summary on functionality and used technologies.
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
+| webpart-user-is-owner | Tarmo Urrio  |
 
 ## Version history
 
 | Version | Date             | Comments        |
 | ------- | ---------------- | --------------- |
-| 1.1     | March 10, 2021   | Update comment  |
-| 1.0     | January 29, 2021 | Initial release |
+| 1.0   | January 10, 2023   | Intial version  |
 
 ## Disclaimer
 
